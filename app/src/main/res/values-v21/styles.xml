@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/warnaTiga</item>
+        <item name="colorPrimaryDark">@color/warnaDua</item>
+        <item name="colorAccent">@color/warnaEmpat</item>
+        <item name="colorSatu">@color/warnaSatu</item>
+        <item name="colorDua">@color/warnaDua</item>
+        <item name="colorTiga">@color/warnaTiga</item>
+        <item name="colorEmpat">@color/warnaEmpat</item>
+        <item name="android:statusBarColor">@color/warnaTiga</item>
+        <item name="android:navigationBarColor">@color/warnaTiga</item>
+    </style>
+</resources>
