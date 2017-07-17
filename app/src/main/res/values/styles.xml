@@ -1,20 +1,11 @@
 <resources>
 
     <!-- Base application theme. -->
-
-    <color name="warnaSatu">#d4e400</color>
-    <color name="warnaDua">#84c225</color>
-    <color name="warnaTiga">#00923f</color>
-    <color name="warnaEmpat">#28166f</color>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/warnaTiga</item>
-        <item name="colorPrimaryDark">@color/warnaDua</item>
-        <item name="colorAccent">@color/warnaEmpat</item>
-        <item name="colorSatu">@color/warnaSatu</item>
-        <item name="colorDua">@color/warnaDua</item>
-        <item name="colorTiga">@color/warnaTiga</item>
-        <item name="colorEmpat">@color/warnaEmpat</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
 </resources>

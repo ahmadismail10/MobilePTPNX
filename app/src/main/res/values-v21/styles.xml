@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/warnaTiga</item>
-        <item name="colorPrimaryDark">@color/warnaDua</item>
-        <item name="colorAccent">@color/warnaEmpat</item>
-        <item name="colorSatu">@color/warnaSatu</item>
-        <item name="colorDua">@color/warnaDua</item>
-        <item name="colorTiga">@color/warnaTiga</item>
-        <item name="colorEmpat">@color/warnaEmpat</item>
-        <item name="android:statusBarColor">@color/warnaTiga</item>
-        <item name="android:navigationBarColor">@color/warnaTiga</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">?android:attr/colorPrimaryDark</item>
     </style>
 </resources>
