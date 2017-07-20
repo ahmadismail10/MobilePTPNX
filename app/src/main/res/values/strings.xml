@@ -1,16 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SIPET</string>
 
-    <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Masuk</string>
-    <string name="action_sign_in_short">Masuk</string>
-    <string name="error_invalid_email">Email / akun invalid</string>
-    <string name="error_invalid_password">Password invalid</string>
-    <string name="error_incorrect_password">Password salah</string>
-    <string name="error_field_required">Kolom harus diisi</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
-    </string>
+    <string name="app_name">KIOSK</string>
+    <string name="hint_email">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login Me.</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
 </resources>
